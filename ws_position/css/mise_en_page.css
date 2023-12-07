@@ -1,0 +1,39 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+content {
+	width: 1400px;
+	background: white;
+}
+header {
+	align-items: center;
+	text-align: center;
+}
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+ul {
+	display: flex;
+	list-style-type: none;
+}
+.right {
+	display: flex;
+	align-items: center;
+}
+.logo,
+cart,
+li {
+	padding: 5px 10px;
+}
+.bg_orang {
+	color: orange;
+}
+/* img {
+	height: 800px;
+	width: 600px;
+	padding: 50px;
+	display: flex;
+} */

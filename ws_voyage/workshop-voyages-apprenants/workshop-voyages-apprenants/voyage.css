@@ -52,7 +52,7 @@ img {
 	font-family: "Kufam";
 	background: linear-gradient(#4a96c2, #53b3c2, #5accc2);
 	color: white;
-    text-align: right;
+	text-align: right;
 }
 .Inde {
 	height: 200px;
@@ -83,7 +83,6 @@ footer p {
 		width: 100%;
 	}
 }
-section > div
-section > article {
+section > div section > article {
 	width: 50%;
 }
